@@ -1,0 +1,1250 @@
+{
+  "operators": [
+    "Aak",
+    "Angelina",
+    "Archetto",
+    "Ascalon",
+    "Ash",
+    "Astgenne the Lightchaser",
+    "Bagpipe",
+    "Bellone",
+    "Blaze",
+    "Blaze the Igniting Spark",
+    "Blemishine",
+    "Carnelian",
+    "Ceobe",
+    "Ch'en",
+    "Ch'en the Dawnstreak",
+    "Ch'en the Holungday",
+    "Chongyue",
+    "Civilight Eterna",
+    "Crownslayer",
+    "Degenbrecher",
+    "Dorothy",
+    "Dusk",
+    "Ebenholz",
+    "Ela",
+    "Entelechia",
+    "Eunectes",
+    "Executor the Ex Foedere",
+    "Exusiai",
+    "Exusiai the New Covenant",
+    "Eyjafjalla",
+    "Eyjafjalla the Hvít Aska",
+    "Fartooth",
+    "Fiammetta",
+    "Flametail",
+    "Gavial the Invincible",
+    "Gladiia",
+    "Gnosis",
+    "Goldenglow",
+    "Haruka",
+    "Hellagur",
+    "Ho'olheyak",
+    "Hoederer",
+    "Horn",
+    "Hoshiguma",
+    "Hoshiguma the Breacher",
+    "Ifrit",
+    "Ines",
+    "Irene",
+    "Jessica the Liberated",
+    "Kal'tsit",
+    "Kirin R Yato",
+    "Lappland the Decadenza",
+    "Lee",
+    "Leizi the Thunderbringer",
+    "Lemuen",
+    "Lessing",
+    "Lin",
+    "Ling",
+    "Logos",
+    "Lumen",
+    "Magallan",
+    "Mantra",
+    "Marcille",
+    "Mizuki",
+    "Młynar",
+    "Mon3tr",
+    "Mostima",
+    "Mountain",
+    "Mudrock",
+    "Muelsyse",
+    "Narantuya",
+    "Nasti",
+    "Nearl the Radiant Knight",
+    "Necrass",
+    "Nian",
+    "Nightingale",
+    "Nymph",
+    "Pallas",
+    "Passenger",
+    "Penance",
+    "Pepe",
+    "Phantom",
+    "Pozëmka",
+    "Pramanix the Prerita",
+    "Qiubai",
+    "Raidian",
+    "Ray",
+    "Reed the Flame Shadow",
+    "Rosa",
+    "Rosmontis",
+    "Saga",
+    "Saileach",
+    "Sankta Miksaparato",
+    "Saria",
+    "Schwarz",
+    "Shining",
+    "Shu",
+    "Siege",
+    "Silence the Paradigmatic",
+    "SilverAsh",
+    "SilverAsh the Reignfrost",
+    "Skadi",
+    "Skadi the Corrupting Heart",
+    "Specter the Unchained",
+    "Stainless",
+    "Surtr",
+    "Suzuran",
+    "Swire the Elegant Wit",
+    "Texas the Omertosa",
+    "Thorns",
+    "Thorns the Lodestar",
+    "Titi",
+    "Togawa Sakiko",
+    "Tragodia",
+    "Typhon",
+    "Ulpianus",
+    "Vigil",
+    "Vina Victoria",
+    "Virtuosa",
+    "Viviana",
+    "Vulpisfoglia",
+    "W",
+    "Wang",
+    "Weedy",
+    "Wiš'adel",
+    "Yu",
+    "Zima the Raging Tide",
+    "Zuo Le",
+    "Angelina the Mellow Wish",
+    "Aphrissa",
+    "Closure",
+    "Kal'tsit - Esperanta",
+    "Makoto Yuki",
+    "Mechanist",
+    "Thumpy",
+    "Violet Mizutsune Orchid",
+    "Viy"
+  ],
+  "squads": {
+    "IS2": [
+      "Leader Squad",
+      "Gathering Squad",
+      "Support Squad",
+      "Spearhead Squad",
+      "Tactical Assault Squad",
+      "Tactical Fortification Squad",
+      "Tactical Ranged Squad",
+      "Tactical Destruction Squad",
+      "Research Squad",
+      "First-Class Squad"
+    ],
+    "IS3": [
+      "Leader Squad",
+      "Gathering Squad",
+      "Support Squad",
+      "Spearhead Squad",
+      "Tactical Assault Squad",
+      "Tactical Fortification Squad",
+      "Tactical Ranged Squad",
+      "Tactical Destruction Squad",
+      "Research Squad",
+      "First-Class Squad",
+      "Mind Over Matter Squad",
+      "Resourceful Squad",
+      "People-Oriented Squad"
+    ],
+    "IS4": [
+      "Leader Squad",
+      "Gathering Squad",
+      "Support Squad",
+      "Spearhead Squad",
+      "Tactical Assault Squad",
+      "Tactical Fortification Squad",
+      "Tactical Ranged Squad",
+      "Tactical Destruction Squad",
+      "Special Training Squad",
+      "First-Class Squad",
+      "Eternal Hunting Squad",
+      "Life Prioritizing Squad",
+      "Scientific Thinking Squad"
+    ],
+    "IS5": [
+      "Leader Squad",
+      "Gathering Squad",
+      "Support Squad",
+      "Spearhead Squad",
+      "Tactical Assault Squad",
+      "Tactical Fortification Squad",
+      "Tactical Ranged Squad",
+      "Tactical Destruction Squad",
+      "First-Class Squad",
+      "Improvisation Squad",
+      "Soul Escort Squad",
+      "Erudite Squad",
+      "Blueprint Squad",
+      "Ingots Squad",
+      "Collection Squad",
+      "Mimic Squad",
+      "Top Gun Squad"
+    ],
+    "IS6": [
+      "Leader Squad",
+      "Special Squad",
+      "Support Squad",
+      "Tactical Assault Squad",
+      "Tactical Fortification Squad",
+      "Tactical Ranged Squad",
+      "Tactical Destruction Squad",
+      "High Ground Breaching Operators",
+      "Ground Breaching Operators",
+      "First-Class Squad",
+      "Tourist Squad",
+      "Sui Regulator Squad",
+      "Tianshi Bureau Squad",
+      "Blooming Flowers Squad",
+      "Perilous Game Squad",
+      "Sui's Shadow Squad",
+      "Proxy Squad",
+      "Knowledge Squad",
+      "Merchant Squad"
+    ]
+  },
+  "modes": {
+    "IS2": {
+      "normal": [
+        {
+          "floor": 1,
+          "name": "A Date With Slugs"
+        },
+        {
+          "floor": 1,
+          "name": "Accident"
+        },
+        {
+          "floor": 1,
+          "name": "Beast Taming"
+        },
+        {
+          "floor": 1,
+          "name": "Fight to the Death"
+        },
+        {
+          "floor": 1,
+          "name": "Gun Salute"
+        },
+        {
+          "floor": 2,
+          "name": "Destitute Knights"
+        },
+        {
+          "floor": 2,
+          "name": "First Come, Last Served"
+        },
+        {
+          "floor": 2,
+          "name": "Patrol Squad"
+        },
+        {
+          "floor": 2,
+          "name": "The Grand Finale"
+        },
+        {
+          "floor": 2,
+          "name": "Unequal Split"
+        },
+        {
+          "floor": 3,
+          "name": "A Familiar Face"
+        },
+        {
+          "floor": 3,
+          "name": "Beast Fighting"
+        },
+        {
+          "floor": 3,
+          "name": "Justice"
+        },
+        {
+          "floor": 3,
+          "name": "Permiere"
+        },
+        {
+          "floor": 3,
+          "name": "Reform"
+        },
+        {
+          "floor": 3,
+          "name": "Sculptor and Statue"
+        },
+        {
+          "floor": 3,
+          "name": "Vintage Transport"
+        },
+        {
+          "floor": 3,
+          "name": "With the Crowd"
+        },
+        {
+          "floor": 4,
+          "name": "A Dance Together"
+        },
+        {
+          "floor": 4,
+          "name": "Alpine Visitor"
+        },
+        {
+          "floor": 4,
+          "name": "Bob's Beers"
+        },
+        {
+          "floor": 4,
+          "name": "Fireworks Show"
+        },
+        {
+          "floor": 4,
+          "name": "Pressing Ahead"
+        },
+        {
+          "floor": 4,
+          "name": "Shrouded in Clouds"
+        },
+        {
+          "floor": 4,
+          "name": "Traveler From Afar"
+        },
+        {
+          "floor": 4,
+          "name": "Unending"
+        },
+        {
+          "floor": 5,
+          "name": "Absurd Trickeries"
+        },
+        {
+          "floor": 5,
+          "name": "Dangers Abound"
+        },
+        {
+          "floor": 5,
+          "name": "Drone Landing Zone"
+        },
+        {
+          "floor": 5,
+          "name": "From Afar"
+        },
+        {
+          "floor": 5,
+          "name": "Surprise Factory"
+        },
+        {
+          "floor": 5,
+          "name": "The Biting Cold"
+        },
+        {
+          "floor": 5,
+          "name": "The Night of Ritual"
+        },
+        {
+          "floor": 5,
+          "name": "The Red Mist"
+        },
+        {
+          "floor": 6,
+          "name": "Sarkaz Desire"
+        },
+        {
+          "floor": 6,
+          "name": "Ursus Desire"
+        }
+      ],
+      "f3_bosses": [
+        "A Cold Separation",
+        "Fatal Melodies",
+        "Mind the Doors",
+        "Terrifying Legends",
+        "Theft From Above"
+      ],
+      "f5_bosses": [
+        "All I Ask of You",
+        "The Point of No Return"
+      ],
+      "f6_bosses": [
+        "New Chapter",
+        "Twisted Every Way"
+      ],
+      "encounters": [
+        "Duck Lord's Party",
+        "Duck Lord's Play",
+        "Gopnik's Fist",
+        "This Ursus Man",
+        "Bound by Self",
+        "Demonic Cage",
+        "Disorderly Banquet",
+        "\"Knight's Duel\"",
+        "Observation"
+      ],
+      "endings": [
+        "Crimson Finale (ED1)",
+        "Ridiculous Comedy (ED2)",
+        "Grand Opening (ED3)",
+        "Silent Chapter (ED4)"
+      ]
+    },
+    "IS3": {
+      "normal": [
+        {
+          "floor": 1,
+          "name": "Cistern"
+        },
+        {
+          "floor": 1,
+          "name": "Insect Infestation"
+        },
+        {
+          "floor": 1,
+          "name": "Mutual Aid"
+        },
+        {
+          "floor": 1,
+          "name": "Sniper Squad"
+        },
+        {
+          "floor": 1,
+          "name": "Symbiosis"
+        },
+        {
+          "floor": 2,
+          "name": "Ebb"
+        },
+        {
+          "floor": 2,
+          "name": "Hunger and Thirst"
+        },
+        {
+          "floor": 2,
+          "name": "Leviathan's Followers"
+        },
+        {
+          "floor": 2,
+          "name": "Malady"
+        },
+        {
+          "floor": 2,
+          "name": "Omen"
+        },
+        {
+          "floor": 2,
+          "name": "Voiceless Summons"
+        },
+        {
+          "floor": 3,
+          "name": "Craft Brewer Killer"
+        },
+        {
+          "floor": 3,
+          "name": "Crime and Punishment"
+        },
+        {
+          "floor": 3,
+          "name": "Looking Forward, Looking Back"
+        },
+        {
+          "floor": 3,
+          "name": "Precarious Defense"
+        },
+        {
+          "floor": 3,
+          "name": "Sanguinarch's Legacy"
+        },
+        {
+          "floor": 3,
+          "name": "The Nest"
+        },
+        {
+          "floor": 3,
+          "name": "Troglodyte Tribe"
+        },
+        {
+          "floor": 3,
+          "name": "Vortex"
+        },
+        {
+          "floor": 4,
+          "name": "Blaze of Glory"
+        },
+        {
+          "floor": 4,
+          "name": "Guns and Order"
+        },
+        {
+          "floor": 4,
+          "name": "Hunting Grounds"
+        },
+        {
+          "floor": 4,
+          "name": "Nethersea Brand Land"
+        },
+        {
+          "floor": 4,
+          "name": "Seacavern Sandstorm"
+        },
+        {
+          "floor": 4,
+          "name": "Territorial Tendencies"
+        },
+        {
+          "floor": 4,
+          "name": "The Revered Abyss"
+        },
+        {
+          "floor": 4,
+          "name": "Underground Ascension"
+        },
+        {
+          "floor": 5,
+          "name": "Ember Phalanx"
+        },
+        {
+          "floor": 5,
+          "name": "Mechanical Menace"
+        },
+        {
+          "floor": 5,
+          "name": "Out of Control"
+        },
+        {
+          "floor": 5,
+          "name": "Pool of Procreation"
+        },
+        {
+          "floor": 5,
+          "name": "The Faithful's Utopia"
+        },
+        {
+          "floor": 5,
+          "name": "The Piper's Call"
+        },
+        {
+          "floor": 5,
+          "name": "The Spread"
+        },
+        {
+          "floor": 5,
+          "name": "Ubi bona somnia"
+        },
+        {
+          "floor": 6,
+          "name": "Deep Cognition"
+        },
+        {
+          "floor": 6,
+          "name": "Water and Fire Union"
+        }
+      ],
+      "f3_bosses": [
+        "Course Correction",
+        "Eternal Wrath",
+        "Requiem Aeternam",
+        "Route Revision",
+        "Separation and Unity",
+        "Two Forms, One Heart"
+      ],
+      "f5_bosses": [
+        "Curse of Cognition",
+        "\"Fate's Favored Child\""
+      ],
+      "f6_bosses": [
+        "Destiny of We Many",
+        "Glory of Humanity"
+      ],
+      "encounters": [
+        "Avoid Unsafe Roads",
+        "Chilling Curse",
+        "Hunting Group",
+        "A New Day, A New Duck",
+        "Indecisiveness",
+        "Right in the Kisser",
+        "Supervision Site",
+        "Tail Between Legs",
+        "Fanatical Flames",
+        "Fishing in a Dry Pond",
+        "\"Joy\" From a Box",
+        "Reality",
+        "See the Big Picture"
+      ],
+      "endings": [
+        "Precious Days (ED1)",
+        "Age of the Silence (ED2)",
+        "Price of Peace (ED3)",
+        "Stella Caerula (ED4)"
+      ]
+    },
+    "IS4": {
+      "normal": [
+        {
+          "floor": 1,
+          "name": "Beasts Awaiting Slaughter"
+        },
+        {
+          "floor": 1,
+          "name": "Ghosts of the Resort"
+        },
+        {
+          "floor": 1,
+          "name": "Hands of Moss"
+        },
+        {
+          "floor": 1,
+          "name": "No More Than Four"
+        },
+        {
+          "floor": 1,
+          "name": "Prisoners' Night"
+        },
+        {
+          "floor": 2,
+          "name": "Don't Turn Around, Sluggies"
+        },
+        {
+          "floor": 2,
+          "name": "Low-Altitude Maneuvering"
+        },
+        {
+          "floor": 2,
+          "name": "Path with No End"
+        },
+        {
+          "floor": 2,
+          "name": "Payback"
+        },
+        {
+          "floor": 2,
+          "name": "Shadows With Ghosts"
+        },
+        {
+          "floor": 2,
+          "name": "Unwell"
+        },
+        {
+          "floor": 3,
+          "name": "Altar of Craving"
+        },
+        {
+          "floor": 3,
+          "name": "Crafty Beasts' Nine-Caves"
+        },
+        {
+          "floor": 3,
+          "name": "Harass With Strength"
+        },
+        {
+          "floor": 3,
+          "name": "Pretense Turned True"
+        },
+        {
+          "floor": 3,
+          "name": "Rational Fracture"
+        },
+        {
+          "floor": 3,
+          "name": "Shady Frozen Sea"
+        },
+        {
+          "floor": 3,
+          "name": "So Close and Yet So Far"
+        },
+        {
+          "floor": 4,
+          "name": "Collapsals' Afternoon"
+        },
+        {
+          "floor": 4,
+          "name": "Company Entanglement"
+        },
+        {
+          "floor": 4,
+          "name": "Defense Substituting Offense"
+        },
+        {
+          "floor": 4,
+          "name": "Noise Disturbance"
+        },
+        {
+          "floor": 4,
+          "name": "Practical Test"
+        },
+        {
+          "floor": 4,
+          "name": "Restricted Zone"
+        },
+        {
+          "floor": 4,
+          "name": "The Big Migration"
+        },
+        {
+          "floor": 4,
+          "name": "Where Ice Condenses"
+        },
+        {
+          "floor": 5,
+          "name": "Confusing Appearance"
+        },
+        {
+          "floor": 5,
+          "name": "Instinct Contamination"
+        },
+        {
+          "floor": 5,
+          "name": "Manmade Carnival"
+        },
+        {
+          "floor": 5,
+          "name": "March of the Dead"
+        },
+        {
+          "floor": 5,
+          "name": "Musical Disaster"
+        },
+        {
+          "floor": 5,
+          "name": "Requested Enemies Obtained"
+        },
+        {
+          "floor": 5,
+          "name": "Stay Away From Strangers"
+        },
+        {
+          "floor": 5,
+          "name": "Where be No Mounts and Seas"
+        },
+        {
+          "floor": 6,
+          "name": "Frost and Sand"
+        },
+        {
+          "floor": 6,
+          "name": "Terminus of Life"
+        }
+      ],
+      "f3_bosses": [
+        "Blade Signifier",
+        "Breathing",
+        "Nature's Wrath",
+        "New Tribe",
+        "The Earth Wakes",
+        "Tree-Snatcher"
+      ],
+      "f5_bosses": [
+        "Lofty Silverfrost",
+        "Sami's Entropy"
+      ],
+      "f6_bosses": [
+        "Gardener",
+        "Sands of Time"
+      ],
+      "encounters": [
+        "\"Envoy of Justice\"",
+        "Half-baked Trip",
+        "Luxurious Fleet",
+        "Moneymaking from Nothing",
+        "Ancient Enemies",
+        "Halfway on Khaganquest",
+        "Long-sought Compensation",
+        "Long-term Trial",
+        "Nameless Hero",
+        "Nature's Clause",
+        "Penalty",
+        "Rock and a Hard Place",
+        "Illusions In The Sand"
+      ],
+      "endings": [
+        "To Talk with the Mountains (ED1)",
+        "Winterfall (ED2)",
+        "Long into an Abyss (ED3)",
+        "From Start to End (ED4)"
+      ]
+    },
+    "IS5": {
+      "normal": [
+        {
+          "floor": 1,
+          "name": "Bad Neighbors"
+        },
+        {
+          "floor": 1,
+          "name": "Ice Age"
+        },
+        {
+          "floor": 1,
+          "name": "Hasty Escape"
+        },
+        {
+          "floor": 1,
+          "name": "Safety Inspection"
+        },
+        {
+          "floor": 1,
+          "name": "Vermin"
+        },
+        {
+          "floor": 2,
+          "name": "Clear the Crowd"
+        },
+        {
+          "floor": 2,
+          "name": "Dense Jungle"
+        },
+        {
+          "floor": 2,
+          "name": "Dissuasion Seminar"
+        },
+        {
+          "floor": 2,
+          "name": "Exhaust Vents"
+        },
+        {
+          "floor": 2,
+          "name": "Furnace Volunteers"
+        },
+        {
+          "floor": 2,
+          "name": "Kaz Falls"
+        },
+        {
+          "floor": 2,
+          "name": "Temporary Patchup"
+        },
+        {
+          "floor": 3,
+          "name": "Bloodline Debates"
+        },
+        {
+          "floor": 3,
+          "name": "Blotted Sky"
+        },
+        {
+          "floor": 3,
+          "name": "Careless Magic"
+        },
+        {
+          "floor": 3,
+          "name": "Firepower Squad"
+        },
+        {
+          "floor": 3,
+          "name": "Lottery Fight"
+        },
+        {
+          "floor": 3,
+          "name": "Motorized Squad"
+        },
+        {
+          "floor": 3,
+          "name": "Morning Labor"
+        },
+        {
+          "floor": 3,
+          "name": "Simulated Skirmish"
+        },
+        {
+          "floor": 4,
+          "name": "Chaos"
+        },
+        {
+          "floor": 4,
+          "name": "Crimson Corridor"
+        },
+        {
+          "floor": 4,
+          "name": "Elusive Merc"
+        },
+        {
+          "floor": 4,
+          "name": "Epochal Gaps"
+        },
+        {
+          "floor": 4,
+          "name": "Frequent Dispute"
+        },
+        {
+          "floor": 4,
+          "name": "Ghost City"
+        },
+        {
+          "floor": 4,
+          "name": "Past the Aquapit"
+        },
+        {
+          "floor": 4,
+          "name": "Rules of Modern Warfare"
+        },
+        {
+          "floor": 4,
+          "name": "Sordid Surveillance"
+        },
+        {
+          "floor": 4,
+          "name": "Timeworn Tensions"
+        },
+        {
+          "floor": 5,
+          "name": "Aerial Assault"
+        },
+        {
+          "floor": 5,
+          "name": "Guiltless Paradise"
+        },
+        {
+          "floor": 5,
+          "name": "Land Reclamation"
+        },
+        {
+          "floor": 5,
+          "name": "Passage Blockade"
+        },
+        {
+          "floor": 5,
+          "name": "Regular Army"
+        },
+        {
+          "floor": 5,
+          "name": "Rhine Guardians"
+        },
+        {
+          "floor": 5,
+          "name": "Rogue Mercenary"
+        },
+        {
+          "floor": 5,
+          "name": "Witch-Curse Alliance"
+        },
+        {
+          "floor": 5,
+          "name": "Wrecked Academy"
+        },
+        {
+          "floor": 6,
+          "name": "Divine Desire"
+        },
+        {
+          "floor": 6,
+          "name": "Heavenly Paradise"
+        },
+        {
+          "floor": 6,
+          "name": "\"Heretics\""
+        },
+        {
+          "floor": 6,
+          "name": "Quest For Consensus"
+        }
+      ],
+      "f3_bosses": [
+        "Battle of Survival",
+        "Brave Souls Marching",
+        "Courtyard of Farewells",
+        "Decapitation",
+        "Devoted Warrior",
+        "River Watcher",
+        "Silent Guardian",
+        "Under The Crown",
+        "Veil of Probability"
+      ],
+      "f5_bosses": [
+        "Court Visit",
+        "Emergency Lecture"
+      ],
+      "f6_bosses": [
+        "Holy City",
+        "The Dharma Sermon",
+        "Fate's Finale"
+      ],
+      "encounters": [
+        "Eye For an Eye",
+        "Narrow Path",
+        "The Boat Home",
+        "Twin Gargoyles",
+        "Beside The Battlefield",
+        "Duck-Speed Highway",
+        "Failed Dare",
+        "Illusory Heist",
+        "Legacy",
+        "Narrative Offer",
+        "Property Dispute",
+        "Revenge of the Toys",
+        "Signal Light",
+        "Victory Rewind"
+      ],
+      "endings": [
+        "The End? (ED1)",
+        "Twin Crowns (ED2)",
+        "City of Angels (ED3)",
+        "Wisdom of Kaśjñāna (ED4)",
+        "Impeccable Day (ED5)"
+      ]
+    },
+    "IS6": {
+      "normal": [
+        {
+          "floor": 1,
+          "name": "Pest Control"
+        },
+        {
+          "floor": 1,
+          "name": "Serious Business"
+        },
+        {
+          "floor": 1,
+          "name": "Ticket Please"
+        },
+        {
+          "floor": 1,
+          "name": "To Market"
+        },
+        {
+          "floor": 1,
+          "name": "Veteran Actor"
+        },
+        {
+          "floor": 1,
+          "name": "Whack-A-Mus"
+        },
+        {
+          "floor": 2,
+          "name": "Daylight Robbery"
+        },
+        {
+          "floor": 2,
+          "name": "Guardian of Justice"
+        },
+        {
+          "floor": 2,
+          "name": "Learning for All"
+        },
+        {
+          "floor": 2,
+          "name": "Look Out Above"
+        },
+        {
+          "floor": 2,
+          "name": "Rescue Mission"
+        },
+        {
+          "floor": 2,
+          "name": "Toy Soldiers"
+        },
+        {
+          "floor": 3,
+          "name": "Away, Hui!"
+        },
+        {
+          "floor": 3,
+          "name": "Feng Shui"
+        },
+        {
+          "floor": 3,
+          "name": "Hook, Line, and Sinker"
+        },
+        {
+          "floor": 3,
+          "name": "Return to Your Roots"
+        },
+        {
+          "floor": 3,
+          "name": "Repel the Outsiders"
+        },
+        {
+          "floor": 3,
+          "name": "Stopping the Advance"
+        },
+        {
+          "floor": 4,
+          "name": "Beware the Shadows"
+        },
+        {
+          "floor": 4,
+          "name": "Cultured"
+        },
+        {
+          "floor": 4,
+          "name": "Exemplary Service"
+        },
+        {
+          "floor": 4,
+          "name": "Let It All Out"
+        },
+        {
+          "floor": 4,
+          "name": "Shanhaizhong Scramble"
+        },
+        {
+          "floor": 4,
+          "name": "Sugared Bait"
+        },
+        {
+          "floor": 4,
+          "name": "Take the Stage"
+        },
+        {
+          "floor": 5,
+          "name": "A Humble Gift"
+        },
+        {
+          "floor": 5,
+          "name": "Departing Inspection"
+        },
+        {
+          "floor": 5,
+          "name": "Green Hills Speak Not"
+        },
+        {
+          "floor": 5,
+          "name": "Honed Edge"
+        },
+        {
+          "floor": 5,
+          "name": "Mangshan Town Records"
+        },
+        {
+          "floor": 5,
+          "name": "Muted Past"
+        },
+        {
+          "floor": 5,
+          "name": "Unlit Sparks"
+        },
+        {
+          "floor": 6,
+          "name": "Beyond Mount and Sea"
+        },
+        {
+          "floor": 6,
+          "name": "Force Redirection"
+        },
+        {
+          "floor": 6,
+          "name": "Garrison"
+        },
+        {
+          "floor": 6,
+          "name": "Inferno"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Avarice"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Breakthrough"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Conformity"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Confusion"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Difficult Beginnings"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Everywhere"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Frivolous Tunes"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Inner Rage"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Omnipresent Gospel"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Sealed Time"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Strange Tales"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "The Four Difficulties"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "To Forget Oneself"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Ware-User"
+        },
+        {
+          "floor": "Shifei/Jinxi Border",
+          "name": "Unreflecting"
+        }
+      ],
+      "f3_bosses": [
+        "Cold Moonlight",
+        "Compassion, Justice, Valor",
+        "Enlightenment",
+        "Memories of Dusk Beauty",
+        "Seeking the Way",
+        "Sword, Glaive, Spear"
+      ],
+      "f5_bosses": [
+        "The Suppression of Sui",
+        "Words Past Like Smoke"
+      ],
+      "f6_bosses": [
+        "The Last Hunt",
+        "The Sui Strategist",
+        "Defining the World"
+      ],
+      "encounters": [
+        "Astral Projection",
+        "Biding Time",
+        "Calamitous Punishment",
+        "Clarity",
+        "Cliff of Geists",
+        "Duck and Yi",
+        "Feast of Fruit",
+        "Joy From Burdenbeast",
+        "Of Hundred Forms",
+        "Recorded Memory",
+        "Reeducation",
+        "Silicon Geist's Banquet",
+        "Sit Back and Watch",
+        "Sparkling Shine",
+        "Steady Stream",
+        "Totally Out of Control"
+      ],
+      "endings": [
+        "Orderly Placation (ED1)",
+        "Scroll of Scars (ED2)",
+        "Black-White Abstrusity (ED3)",
+        "Out of Nothingness (ED4)",
+        "No Regrets (ED5)"
+      ]
+    }
+  }
+}
