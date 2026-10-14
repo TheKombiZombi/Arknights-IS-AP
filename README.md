@@ -4,7 +4,7 @@ A community-maintained, **manual-check** Archipelago world for Arknights Integra
 
 > This project is unofficial and is not affiliated with, endorsed by, or associated with Hypergryph, Yostar, or Archipelago.
 
-**Mostly vibe-coded as it was initially intended for private usage.**
+**Mostly vibe-coded as it was initially intended for private usage. I will not guarantee that this will be updated frequently, especially with modes and character releases.**
 
 ## What it does
 
@@ -12,13 +12,15 @@ The APWorld randomizes access to supported Integrated Strategies modes, squads, 
 
 Supported content includes IS2–IS6, mode access, squad permissions, operator permits, mode and ending goals, and optional floor, boss, encounter, ending, and Ducksanity checks. See the in-game Archipelago YAML/options interface for the complete, version-matched option descriptions.
 
+<img width="796" height="596" alt="unlock-tracker" src="https://github.com/user-attachments/assets/67daa00a-d149-4dc2-99d3-91aa9b43a37a" />
+
 ## Install and build
 
 Use an Archipelago installation compatible with the `compatible_version` in [`archipelago.json`](archipelago.json).
 
 ```bash
 git clone https://github.com/TheKombiZombi/Arknights-IS-AP.git
-cd arknights-is-archipelago
+cd arknights-is-ap
 python3 build_apworld.py
 ```
 
